@@ -16,4 +16,11 @@ Here's an example of the driving line, distilled from a [video review of the cir
 * The longest 'straight' is from corner 7 to corner 10. The earlier you start the straight, the faster you will be by the end. Corners 8 and 9 can be taken flat out.
 * Keep momentum as high as possible. Sodi karts will bog down at low speeds.
 * While the starting grid is on the straight leading to turn 1, the finish line is just after turn 2.
-* Be careful into turn 6. There's a drainage grate in the chevrons on the inside of the turn that you really don't want to hit.
+* Be careful into turn 6. There's a drainage grate in the chevrons on the inside of the turn that you really don't want to hit. Either straddle it or avoid it completely.
+* At the start of the race here, the karts are on the starting line just before turn 1. In the distance, at the finish line just after turn 2, a red light switches to green to signal the start of the race. No overtaking until you cross the finish line.
+* Use the run-off areas at turns 2, 4 and 7 to drive a straighter line and hold on to momentum. Oversteering to try to keep completely on the track can slow the kart down.
+* At corner 10 you can get back on the power quite early as there's a large run off area exiting corner 10 onto the straight.
+
+## Timing
+
+* In 2021, the event was scheduled to start at 12:45. Competitors fought for a place in the A or B group and we had two races for A and two races for B; 5 mins practice to qualify and two 20 minute races. Races finished around 4 o'clock and everyone had left the venue by around 4:30.
