@@ -24,3 +24,10 @@ Here's an example of the driving line, distilled from a [video review of the cir
 ## Timing
 
 * In 2021, the event was scheduled to start at 12:45. Competitors fought for a place in the A or B group and we had two races for A and two races for B; 5 mins practice to qualify and two 20 minute races. Races finished around 4 o'clock and everyone had left the venue by around 4:30.
+
+## Club Records
+
+| Weather | Beginner | Intermediate | Advanced |
+|---      |---       |---           |---       |
+| Dry     | Karl Anderson ( 44.191 - 2021 ) | Jack Merry ( 43.880 - 2021 ) | Chris Orritt ( 43.436 - 2021 ) |
+| Wet     |          |              |          |

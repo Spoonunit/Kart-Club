@@ -27,5 +27,14 @@ Also there's a [video](https://www.youtube.com/watch?v=Q8a-kOWFrq8) from many mo
 * Use the run off on turn 1 to keep your momentum up.
 * Turn 2 is pretty flat out, but line up corner 3 well and you'll be able to turn and accelerate through turn 4 which is very slow.
 * Turn 5 is pretty tight with a barrier on the left. You want an angle in that will let you hug turn 6 which then takes you under the bridge.
+* Get turn 6 right and you'll have an opportunity to pass slower drivers under the bridge, round turn 7 and into turn 8.
+* Mistakes made at turn 8 will cost you all the way to your next application of the brakes. Don't understeer.
 * Turn 10 is very fast, but work you way up to the speed you can handle here. You should be able to get through here pretty fast into turn 11, allowing the engine to brake you a little as you then come back onto the power for turn 12, which is possible flat out on warm tyres eventually.
 * Get the entry to turn 14 right and you'll have been almost flat out from turn 11 through to turn 1, and then you're ready to do it all again.
+
+## Club Records
+
+| Weather | Beginner | Intermediate | Advanced |
+|---      |---       |---           |---       |
+| Dry     |          |              |          |
+| Wet     |          |              |          |
