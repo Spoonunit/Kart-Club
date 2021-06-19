@@ -20,6 +20,7 @@ Go Pros are go at Ellough. Here's a [video](https://www.youtube.com/watch?v=bN9H
 
 ## Driving Tips
 
+If you want to dive into more expert guidance, check out the [Club 100 Track Guide](https://club100.co.uk/circuit-guide/ellough-park-bite-size-track-guide/)
 
 ## Club Records
 
