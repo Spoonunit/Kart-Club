@@ -36,7 +36,15 @@ Also there's a [video](https://www.youtube.com/watch?v=Q8a-kOWFrq8) from many mo
 
 ## Club Records
 
+### 900m Circuit
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
 | Dry     |          |              |          |
+| Wet     |          |              |          |
+
+### 1100m Circuit
+| Weather | Beginner | Intermediate | Advanced |
+|---      |---       |---           |---       |
+| Dry     |          |              |          |
+| Damp    | Piero B ( 1:04:520 - 2021) | Mark Hopkins ( 1:03:529 - 2021 ) | Chris Taig ( 1:03:354 - 2021 )         |
 | Wet     |          |              |          |

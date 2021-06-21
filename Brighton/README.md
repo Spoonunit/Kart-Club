@@ -25,6 +25,23 @@ Here's an example of the driving line, distilled from a [video review of the cir
 
 * In 2021, the event was scheduled to start at 12:45. Competitors fought for a place in the A or B group and we had two races for A and two races for B; 5 mins practice to qualify and two 20 minute races. Races finished around 4 o'clock and everyone had left the venue by around 4:30.
 
+## On-Board Video
+
+### 2021
+Chris O - [A group race 1](https://www.youtube.com/watch?v=_lYWWRLwOHY)
+
+Chris O - [A group race 2](https://www.youtube.com/watch?v=5tBRfbytF2k)
+
+Adam C - [B group race 1](https://www.youtube.com/watch?v=d8OkyZRE4b4)
+
+Simon S - [A group race 1](https://www.youtube.com/watch?v=KPEkHYeyvbI&feature=youtu.be)
+
+Simon S - [A group race 2](https://www.youtube.com/watch?v=W5Tmz3Pdau0)
+
+Arwel O - [A group race 1](https://www.youtube.com/watch?v=IPi_xFaeBFw)
+
+Chris T - [A group race 2](https://www.youtube.com/watch?v=qRG9n8679Z4)
+
 ## Club Records
 
 | Weather | Beginner | Intermediate | Advanced |
