@@ -16,7 +16,7 @@ Here's an example driving line:
 
 ## Video
 
-Go Pros are go at Ellough. Here's a [video](https://www.youtube.com/watch?v=bN9HLw7i2DU) to give you a feel for the track.
+Go Pros are no-go at Ellough. Here's a [video](https://www.youtube.com/watch?v=bN9HLw7i2DU) to give you a feel for the track though.
 
 ## Driving Tips
 
