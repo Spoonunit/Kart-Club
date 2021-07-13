@@ -26,5 +26,5 @@ If you want to dive into more expert guidance, check out the [Club 100 Track Gui
 
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
-| Dry     | Giles Foster-Hall ( 56.078 - 2019) | Ross Corkett ( 55.188 - 2019 ) | Kevin Allen ( 53.524 - 2019 ) |
+| Dry     | Adam Creek ( 55.956 - 2021) | Jack Merry ( 54.524 - 2021 ) | Kevin Allen ( 53.524 - 2019 ) |
 | Wet     |          |              |          |
