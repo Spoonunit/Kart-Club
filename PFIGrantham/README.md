@@ -16,7 +16,7 @@ Here's an example driving line:
 
 ## Video
 
-Take a look at this [superb onboard lap](https://www.youtube.com/watch?v=lnAe_t2_m74) with commentary, produced by the FIA Karting Championship
+Take a look at this [superb onboard lap](https://www.youtube.com/watch?v=lnAe_t2_m74) with commentary, produced by the FIA Karting Championship. Make no mistake, the hire karts won't perform like the one shown, with max speeds at around 45mph.
 
 ## Driving Tips
 
