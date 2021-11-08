@@ -34,6 +34,6 @@ Adjust what you learn from video appropriately. Perhaps the only thing you're li
 
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
-| Dry     |          |              |          |
+| Dry     | Mark Hopkins ( 58.725 - 2018 )         | Duncan Ford ( 57.889 - 2019 )             | Matt Clark ( 57.088 - 2018 )         |
 | Damp    |          |
 | Wet     |          |              |          |
