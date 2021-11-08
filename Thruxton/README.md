@@ -2,7 +2,7 @@
 
 ![Aerial View](images/Thruxton-AerialView.jpg)
 
-Thruxton is guelling circuit located in the south of England. Prepare to feel like you've had a proper workout after your session here. Visit the [track website here](https://www.thruxtonkarting.co.uk/).
+Thruxton is gruelling circuit located in the south of England. Prepare to feel like you've had a proper workout after your session here. Visit the [track website here](https://www.thruxtonkarting.co.uk/).
 
 ## Getting There
 
