@@ -4,6 +4,10 @@
 
 Thruxton is gruelling circuit located in the south of England. Prepare to feel like you've had a proper workout after your session here. Visit the [track website here](https://www.thruxtonkarting.co.uk/).
 
+## Club Etiquette
+
+Please [click here](../Club_Eiquette) refresh yourself on club etiquette. As with the safety video, you should give the club etiquette a review before every race.
+
 ## Getting There
 
 Postcode - SP11 8PW

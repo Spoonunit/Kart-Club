@@ -4,6 +4,10 @@
 
 Located just northwest of Northampton, Whilton Mill is one of the club's favourites and thus the choice for the <del>Rainbow</del> Super Cup. All qualified drivers battle head to head for a winner-takes-all finale to the season. The circuit is also popular with owner-drivers and part of the Club-100 circuit, and you'll find no end of YouTube videos of racing at this location.
 
+## Club Etiquette
+
+Please [click here](../Club_Eiquette) refresh yourself on club etiquette. As with the safety video, you should give the club etiquette a review before every race.
+
 ## Getting There
 
 Postcode - NN11 2NH

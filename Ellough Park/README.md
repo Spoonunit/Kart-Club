@@ -4,6 +4,10 @@
 
 Ellough Park is one of the premier circuits in the country. When you park up here, you'll likely see trucks here that carried private karts. We'll be using the hire karts though. Visit the [track website here](http://www.elloughpark.co.uk/).
 
+## Club Etiquette
+
+Please [click here](../Club_Eiquette) refresh yourself on club etiquette. As with the safety video, you should give the club etiquette a review before every race.
+
 ## Getting There
 
 Plan your journey [here](https://www.google.com/maps/place/Ellough+Park+Kart+Circuit/@52.4351371,1.6018921,17.5z/data=!4m13!1m7!3m6!1s0x47da1e7516df2eb3:0x47cbc48f7c3dfc3a!2sBeccles+NR34+7XD,+UK!3b1!8m2!3d52.4351306!4d1.6021515!3m4!1s0x47d9f60e3c2ec8ef:0x156dce0dbaf4d6a0!8m2!3d52.4347496!4d1.6016709?hl=en-US).

@@ -4,6 +4,10 @@
 
 [Daytona - Sandown Park](https://www.daytona.co.uk/venues/sandown-park/) has been a regular stop for the Kart Club for years. We've raced both in the Sodi and [DMax](https://www.daytona.co.uk/venues/sandown-park/new-dmax-at-sandown-park/) karts, both sets of which were renewed during 2020. If it's going to be your first time in a DMax, be prepared to be travelling a lot faster than the more typical Sodi karts (sick bags are not provided by the club).
 
+## Club Etiquette
+
+Please [click here](../Club_Eiquette) refresh yourself on club etiquette. As with the safety video, you should give the club etiquette a review before every race.
+
 # Travel
 
 Plan your journey [here](https://www.google.com/maps/place/Daytona+Outdoor+Go-Karting+%7C+Sandown+Park+(Surrey)/@51.375682,-0.36227,16z/data=!4m5!3m4!1s0x0:0x1ce709647848ebfb!8m2!3d51.375568!4d-0.3622234?hl=en-US).
