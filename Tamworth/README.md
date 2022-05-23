@@ -22,7 +22,7 @@ Here's an example driving line:
 
 ## Video
 
-Chris Ortiz recorded [this video lap](https://youtu.be/GqMK7hPNn08?list=PLsGK_pLZ_jZLwei_vmKZFLdSYDGD64vDA&t=456) during the 2016 season.
+Chris Orritt recorded [this video lap](https://youtu.be/GqMK7hPNn08?list=PLsGK_pLZ_jZLwei_vmKZFLdSYDGD64vDA&t=456) during the 2016 season.
 
 ## Driving Tips
 
