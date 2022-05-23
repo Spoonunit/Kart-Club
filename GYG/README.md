@@ -2,7 +2,11 @@
 
 ![Aerial View](images/GYG-AerialView.jpg)
 
-GYG Karting is located in Glan Y Gors in north Wales. Visit the [track website here](https://gygkarting.com/).
+In the picturesque hills of North Wales lies the track Red Bull ranked the best in the UK back in 2018. GYG is characterised by its mixture of fast, flowing corners, a tricky final sector and massive elevation change over the lap. This 1,100m circuit is a great mix of flat out & tight technical sections. 
+
+The standout features of GYG are the very long uphill Dragon Straight followed by the ultra-fast turn three, a compression complex consisting of ever-tightening right-hand corners. Finally, there’s the Devil’s Elbow in the last sector where the track drops away dramatically.
+
+Visit the [track website here](https://gygkarting.com/).
 
 ## Club Etiquette
 
