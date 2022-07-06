@@ -39,3 +39,4 @@ Chris Orritt recorded [this video lap](https://youtu.be/GqMK7hPNn08?list=PLsGK_p
 
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
+| Dry     | Phil Newport ( TBC - 2022 )         | Nic Honan ( TBC - 2022 )             | Jack Merry ( 59:574 - 2022 )         |

@@ -59,3 +59,4 @@ You can watch a nice clean lap driven by Arwel by [clicking here](https://youtu.
 
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
+| Dry     | Ali Tommis ( 59:927 - 2022 )         | Mark Hopkins ( 57:250 - 2022 )             | Daniel Skelton ( 56:682 - 2022 )         |

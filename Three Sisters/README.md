@@ -32,3 +32,4 @@ Hop onboard for a lap [by clicking here](https://youtu.be/r4P6pCoj7ZM?t=373)
 
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
+| Dry     | Phil Newport ( 51:856 - 2022 )         | Mark Hopkins ( 51:607 - 2022 )             | Daniel Skelton ( 50:573 - 2022 )         |
