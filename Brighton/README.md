@@ -54,5 +54,5 @@ Chris T - [A group race 2](https://www.youtube.com/watch?v=qRG9n8679Z4)
 
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
-| Dry     | Karl Anderson ( 44.191 - 2021 ) | Jack Merry ( 43.880 - 2021 ) | Chris Orritt ( 43.436 - 2021 ) |
+| Dry     | Stephen Snowden ( 43.499 - 2022 ) | Mark Hopkins ( 43.517 - 2022 ) | Chris Orritt ( 43.436 - 2021 ) |
 | Wet     |          |              |          |
