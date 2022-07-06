@@ -43,7 +43,7 @@ Also there's a [video](https://www.youtube.com/watch?v=Q8a-kOWFrq8) from many mo
 ### 900m Circuit
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
-| Dry     |          |              |          |
+| Dry     | Andrew Blunden ( 51:301 - 2022 )         | Simon Skelton (51:587 - 2022 )             | Jack Merry ( 50:837 - 2022 )         |
 | Wet     |          |              |          |
 
 ### 1100m Circuit
