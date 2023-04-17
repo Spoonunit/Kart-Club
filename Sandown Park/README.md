@@ -33,10 +33,16 @@ Chris O - [DMax - 2016](https://www.youtube.com/watch?v=CX-Lg7b1rAA)
 
 ## Club Records
 
-### Sodi
+### Sodi - Old Fleet
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
 | Dry     | Mark Hopkins ( 52.062 - 2018 ) | Nic Honan ( 51.426 - 2018 ) | Andrea Skane ( 51.020 - 2018 ) |
+| Wet     |          |              |          |
+
+### Sodi - New Fleet (2023)
+| Weather | Beginner | Intermediate | Advanced |
+|---      |---       |---           |---       |
+| Dry     |          |              |          |
 | Wet     |          |              |          |
 
 ### DMax

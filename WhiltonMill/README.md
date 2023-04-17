@@ -36,8 +36,18 @@ Adjust what you learn from video appropriately. Perhaps the only thing you're li
 
 ## Club Records
 
+International
+
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
 | Dry     | Mark Hopkins ( 58.725 - 2018 )         | Duncan Ford ( 57.889 - 2019 )             | Matt Clark ( 57.088 - 2018 )         |
+| Damp    |          |
+| Wet     |          |              |          |
+
+Zulu
+
+| Weather | Beginner | Intermediate | Advanced |
+|---      |---       |---           |---       |
+| Dry     | Stephen Snowden ( 49.047 - 2021 )         | Arwel Owen ( 48.942 - 2021 )             | Chris Taig ( 48.475 - 2021 )         |
 | Damp    |          |
 | Wet     |          |              |          |

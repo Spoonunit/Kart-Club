@@ -31,4 +31,4 @@ If you want to dive into more expert guidance, check out this [guide on Autospor
 | Weather | Beginner | Intermediate | Advanced |
 |---      |---       |---           |---       |
 | Dry     |  |  |  |
-| Wet     |          |              |          |
+| Wet     | Paul Dunkley ( 1:35.239 - 2022 ) | George Shanley ( 1:36.919 - 2022 ) | Duncan Ford - ( 1:33.722 - 2022 )        |
