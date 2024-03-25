@@ -22,10 +22,6 @@ Here's an example driving line:
 
 There are quite a few good videos for Rye House. [This one](https://www.youtube.com/watch?v=yq_ejPWdLCA) also includes some great driving tips for this circuit.
 
-
-
-Take a look at this [superb onboard lap](https://www.youtube.com/watch?v=lnAe_t2_m74) with commentary, produced by the FIA Karting Championship. Make no mistake, the hire karts won't perform like the one shown, with max speeds at around 45mph.
-
 ## Driving Tips
 
 Here's a [great guide in words](https://kclmotorsport.wordpress.com/2012/10/22/rye-house-track-guide/) to maybe add a bit more flavour to the above video guide.
